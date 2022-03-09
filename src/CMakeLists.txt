@@ -1,0 +1,2 @@
+# ADD_EXECUTABLE(out main.cc)
+ADD_SUBDIRECTORY(ls ls)
